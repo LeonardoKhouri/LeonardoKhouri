@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/ADS-EM%20FORMA%C3%87%C3%83O-A855F7?style=for-the-badge&labelColor=111111" alt="ADS em formação">
   <img src="https://img.shields.io/badge/TI-EXPERI%C3%8ANCIA%20PR%C3%81TICA-A855F7?style=for-the-badge&labelColor=111111" alt="Experiência prática em TI">
   <img src="https://img.shields.io/badge/FOCO-DADOS%20%26%20BI-A855F7?style=for-the-badge&labelColor=111111" alt="Foco em Dados e BI">
-</p>🟣 Sobre mim
+</p>🟣 Sobre mim <br>
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu e atuo como estagiário de Tecnologia da Informação na Prefeitura Municipal de Ferraz de Vasconcelos.
 
 Minha experiência profissional envolve atividades de suporte técnico e infraestrutura de TI. Paralelamente, venho direcionando meus estudos para Análise de Dados, SQL, bancos de dados e Business Intelligence (BI).
